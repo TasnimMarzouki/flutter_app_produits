@@ -1,3 +1,4 @@
+// Etape 6 : main.dart affiche ListProduits()
 import 'package:flutter/material.dart';
 import 'page_liste_produits.dart';
 
