@@ -1,3 +1,4 @@
+// Étape 2 : Modèle Produit
 class Produit {
   final String nom;
   final String description;
@@ -8,6 +9,5 @@ class Produit {
     required this.description,
     required this.prix,
   });
-}
-
+} 
 
