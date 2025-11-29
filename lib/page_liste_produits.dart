@@ -1,4 +1,4 @@
-// Etape 4 : Page ListProduits
+// Etape 5 : Ajout ListView + Card + bouton Voir
 import 'package:flutter/material.dart';
 import 'models/produit.dart';
 import 'page_details_produit.dart';
